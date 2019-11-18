@@ -1,3 +1,13 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;   DON'T REPLACE THESE OPTIONS
+;
+;   In your custom context menu options file, fill out whatever info you want.
+;   The Length variable needs to be set to the number of entries in the menu.
+;   
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
 [Variables]
 Width=100
 Length=1
